@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+.bg-dark {
+    background-color: #0000001f!important;
+}
+@media (min-width: 992px)
+#mainNav .navbar-brand {
+    font-size: 2.75em;
+    transition: all .3s;
+}
+.shadow{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.70);
+    border-radius: 25px;
+    margin: -8px;
+    padding: 25px;
+}
